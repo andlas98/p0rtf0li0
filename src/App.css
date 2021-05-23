@@ -4,6 +4,7 @@ body{
   background: rgb(15, 15, 15);
   height: 100vh;
   color: #fff;
+  font-family: Roboto;
 }
 
 .navBar{
@@ -35,13 +36,14 @@ li a:hover{
 .heading{
   text-align: center;
   font-size: 3rem;
-  color: #fff;
+  background: rgb(165, 42, 42);
+  margin-left: auto;
+  margin-right: auto;
+  width: 70vw;
 }
 
 .andrew {
-  background-color: aliceblue ;
-  border: 1px solid aliceblue;
-  color: rgb(165, 42, 42);
+ 
 }
 
 .about-paragraph {

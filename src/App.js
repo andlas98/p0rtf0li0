@@ -47,7 +47,10 @@ function Home() {
   return (
   <div>
     <h2 className="heading andrew">Andrew Ohakam</h2>
-    <p>name</p>
+    <div>
+      Andrew Ohakam is a frontend web developer who strives to become a full-stack developer.
+    </div>
+    
   </div>);
 }
 
