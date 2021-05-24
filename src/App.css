@@ -1,5 +1,4 @@
-
-
+/* General */
 body{
   background: rgb(15, 15, 15);
   height: 100vh;
@@ -52,6 +51,16 @@ li a:hover{
   padding: 1rem;
   background: rgb(165, 42, 42);
   color: #fff;
+}
+
+/* Homepage */
+.homePagePortrait{
+  position:relative;
+  width: 20%;
+  border: 1rem solid rgb(165, 42, 42);
+  border-radius: 100%;
+  margin-top: 2.3rem;
+  left: 38%;
 }
 
 /* Portfolio Page */

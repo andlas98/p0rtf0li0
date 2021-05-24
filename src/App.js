@@ -47,8 +47,8 @@ export default function App() {
 function Home() {
   return (
   <div>
-    <h2 className="heading andrew">Andrew Ohakam</h2>
     <img className="homePagePortrait" src={portrait}alt="andrewPortrait"></img>
+    <h2 className="heading andrew">Andrew Ohakam</h2>
     <div>
       Andrew Ohakam is a frontend web developer who strives to become a full-stack developer.
     </div>
