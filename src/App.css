@@ -1,38 +1,38 @@
 /* General */
-body{
+body {
   background: rgb(15, 15, 15);
   height: 100vh;
   color: #fff;
   font-family: Roboto;
 }
 
-.navBar{
+.navBar {
   list-style: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
 
-li{
+li {
   float: left;
 }
 
-li a{
+li a {
   color: #fff;
   display: block;
   text-align: center;
   padding: 16px 16px 0 16px;
   text-decoration: none;
 }
-li a:hover{
+li a:hover {
   color: rgb(165, 42, 42);
 }
 
-.bodyDiv{
+.bodyDiv {
   
 }
 
-.heading{
+.heading {
   text-align: center;
   font-size: 3rem;
   background: rgb(165, 42, 42);
@@ -51,10 +51,11 @@ li a:hover{
   padding: 1rem;
   background: rgb(165, 42, 42);
   color: #fff;
+  line-height: 1.5rem;
 }
 
 /* Homepage */
-.homePagePortrait{
+.homePagePortrait {
   position:relative;
   width: 20%;
   border: 1rem solid rgb(165, 42, 42);
@@ -64,11 +65,25 @@ li a:hover{
 }
 
 /* Portfolio Page */
-.project-div{
-  margin: 1rem;
-  padding-bottom: 2rem;
+.project-div {
+  margin: auto;
+  margin-bottom: 3rem;
+  padding: 2rem;
+  background-color: brown;
+  width: 70vw;
 }
 
-.project-div:first{
+.project-div:first {
 
+}
+
+.project-div a {
+  background: white;
+  text-decoration: none;
+  padding: 0.4rem;
+  color: rgb(0, 0, 0);
+}
+
+.project-heading{
+  margin-top: 0;
 }

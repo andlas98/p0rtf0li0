@@ -49,7 +49,7 @@ function Home() {
   <div>
     <img className="homePagePortrait" src={portrait}alt="andrewPortrait"></img>
     <h2 className="heading andrew">Andrew Ohakam</h2>
-    <div>
+    <div style={{'text-align': 'center', 'line-height':'1.5rem'}}>
       Andrew Ohakam is a frontend web developer who strives to become a full-stack developer.
     </div>
     
@@ -61,7 +61,9 @@ function About() {
     <div>
       <h2 className="heading">About</h2>
       <div className="about-paragraph">
-        My name is Andrew Ohakam. I was born and raised in the Bronx, New York.
+        My name is Andrew Ohakam. I was born and raised in the Bronx, New York. I am primarily focused on developing a career in frontend web development, with my current end goal being a full-stack engineer.
+        <p></p>
+        Outside of work, I run, read (mostly) self-help books, play tabletop role-playing games, and self-teach myself digital design. I'll know I've made it in life when I give a home to a long, lean, black Doberman named Howard.
       </div>
     </div>
   );
@@ -71,29 +73,31 @@ function Portfolio() {
   return (
   <div>
     <h2 className="heading">Portfolio</h2>
-    <p><b>Note:</b> </p>
+    <p><b>Note:</b></p>
     <div className="project-div">
       <h3 className="project-heading">Gaming News Aggregator</h3>
       <p className="description">
         This webpage displays the RSS feeds of gaming websites I frequent. This prevents me from having to access every single site to stay updated on gaming news.
       </p>
-      <a href="https://github.com/andlas98/GNA_Redux" target="_blank">Source Code (Github)</a>
+      <a href="https://github.com/andlas98/GNA_Redux" target="_blank" rel="noreferrer">Source Code (Github)</a>
     </div>
     <div className="project-div">
       <h3 className="project-heading">My Portfolio Site</h3>
       <p className="description">
-        The website you're looking at right now! This was actually the result of one the final projects I had to do for my undergrad.
+        The website you're looking at right now! This was actually the result of one of the final projects I had to do for my undergrad.
       </p>
-      <a href="https://github.com/andlas98/final-project" target="_blank">Source Code (Github)</a>
+      <a href="https://github.com/andlas98/final-project" target="_blank" rel="noreferrer">Source Code (Github)</a>
     </div>
     <div className="project-div">
       <h3 className="project-heading">African Students Association Website</h3>
       <p className="description">
         In my first college (Rensselaer Polytechnic Institute), I was once webmaster for the African Students Association. The rest of the executive board tasked me to create an official site representing the club. The result was the first full website I ever created (that's also still available on the Internet!).
       </p>
-      <a href="https://github.com/andlas98/Portfolio/tree/master/ASAWebsite2.0" target="_blank">Source Code (Github)</a>
+      <a href="http://asa.union.rpi.edu/" target="_blank" rel="noreferrer">Website</a>
       <p></p>
-      <a href="http://asa.union.rpi.edu/" target="_blank">Website</a>
+
+      <p></p>
+      <a href="https://github.com/andlas98/Portfolio/tree/master/ASAWebsite2.0" target="_blank" rel="noreferrer">Source Code (Github)</a>
     </div>
     
   </div>
