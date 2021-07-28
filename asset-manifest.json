@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/andlas98-p0rtf0li0/static/css/main.76946c6b.chunk.css",
-    "main.js": "/andlas98-p0rtf0li0/static/js/main.2aeb0aa7.chunk.js",
-    "main.js.map": "/andlas98-p0rtf0li0/static/js/main.2aeb0aa7.chunk.js.map",
-    "runtime-main.js": "/andlas98-p0rtf0li0/static/js/runtime-main.0492c9b9.js",
-    "runtime-main.js.map": "/andlas98-p0rtf0li0/static/js/runtime-main.0492c9b9.js.map",
-    "static/js/2.5fd9f1de.chunk.js": "/andlas98-p0rtf0li0/static/js/2.5fd9f1de.chunk.js",
-    "static/js/2.5fd9f1de.chunk.js.map": "/andlas98-p0rtf0li0/static/js/2.5fd9f1de.chunk.js.map",
-    "static/js/3.887f982c.chunk.js": "/andlas98-p0rtf0li0/static/js/3.887f982c.chunk.js",
-    "static/js/3.887f982c.chunk.js.map": "/andlas98-p0rtf0li0/static/js/3.887f982c.chunk.js.map",
-    "index.html": "/andlas98-p0rtf0li0/index.html",
-    "static/css/main.76946c6b.chunk.css.map": "/andlas98-p0rtf0li0/static/css/main.76946c6b.chunk.css.map",
-    "static/js/2.5fd9f1de.chunk.js.LICENSE.txt": "/andlas98-p0rtf0li0/static/js/2.5fd9f1de.chunk.js.LICENSE.txt",
-    "static/media/andrewPortrait.a346dbcf.jpg": "/andlas98-p0rtf0li0/static/media/andrewPortrait.a346dbcf.jpg"
+    "main.css": "/p0rtf0li0/static/css/main.76946c6b.chunk.css",
+    "main.js": "/p0rtf0li0/static/js/main.2aeb0aa7.chunk.js",
+    "main.js.map": "/p0rtf0li0/static/js/main.2aeb0aa7.chunk.js.map",
+    "runtime-main.js": "/p0rtf0li0/static/js/runtime-main.028f022b.js",
+    "runtime-main.js.map": "/p0rtf0li0/static/js/runtime-main.028f022b.js.map",
+    "static/js/2.5fd9f1de.chunk.js": "/p0rtf0li0/static/js/2.5fd9f1de.chunk.js",
+    "static/js/2.5fd9f1de.chunk.js.map": "/p0rtf0li0/static/js/2.5fd9f1de.chunk.js.map",
+    "static/js/3.887f982c.chunk.js": "/p0rtf0li0/static/js/3.887f982c.chunk.js",
+    "static/js/3.887f982c.chunk.js.map": "/p0rtf0li0/static/js/3.887f982c.chunk.js.map",
+    "index.html": "/p0rtf0li0/index.html",
+    "static/css/main.76946c6b.chunk.css.map": "/p0rtf0li0/static/css/main.76946c6b.chunk.css.map",
+    "static/js/2.5fd9f1de.chunk.js.LICENSE.txt": "/p0rtf0li0/static/js/2.5fd9f1de.chunk.js.LICENSE.txt",
+    "static/media/andrewPortrait.a346dbcf.jpg": "/p0rtf0li0/static/media/andrewPortrait.a346dbcf.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0492c9b9.js",
+    "static/js/runtime-main.028f022b.js",
     "static/js/2.5fd9f1de.chunk.js",
     "static/css/main.76946c6b.chunk.css",
     "static/js/main.2aeb0aa7.chunk.js"
